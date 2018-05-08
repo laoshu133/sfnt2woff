@@ -1,0 +1,36 @@
+{
+  "name": "sfnt2woff",
+  "version": "1.0.0",
+  "description": "A woff convertrt for ttf or otf.",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "bin": {
+    "sfnt2woff": "./cli.js"
+  },
+  "files": [
+    "index.js"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/laoshu133/sfnt2woff.git"
+  },
+  "keywords": [
+    "font",
+    "coverter",
+    "ttf",
+    "otf",
+    "woff"
+  ],
+  "author": "xiaomi",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/laoshu133/sfnt2woff/issues"
+  },
+  "homepage": "https://github.com/laoshu133/sfnt2woff#readme",
+  "dependencies": {
+    "optimist": "^0.6.1",
+    "pako": "^1.0.6"
+  }
+}

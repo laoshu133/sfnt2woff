@@ -1,0 +1,13 @@
+# node
+node_modules
+npm-debug.log
+.env
+
+# build
+.cache
+dist*
+
+# app
+fonts/*
+.fonts.json
+!fonts/.gitkeep
