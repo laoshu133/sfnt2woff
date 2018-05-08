@@ -1,6 +1,6 @@
 {
   "name": "sfnt2woff",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A woff convertrt for ttf or otf.",
   "main": "index.js",
   "scripts": {
